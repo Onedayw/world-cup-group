@@ -1,0 +1,25 @@
+{
+  "name": "world-cup-group",
+  "version": "1.0.0",
+  "description": "2022 Qatar World Cup group prediction website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onedayw/world-cup-group.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Nate Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onedayw/world-cup-group/issues"
+  },
+  "homepage": "https://github.com/Onedayw/world-cup-group#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
